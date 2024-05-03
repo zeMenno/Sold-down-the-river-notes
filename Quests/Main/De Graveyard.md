@@ -2,7 +2,7 @@
 
 We moesten naar de graveyard toe om daar een Necromancer te stoppen.
 
-[[Farly Flynt-woot]] ging samen met [[Ivory Mistmoon]] naar de graveyard
+**Farly** ging samen met **Ivory** naar de graveyard
 
-Hier kwamen wij 
+
 

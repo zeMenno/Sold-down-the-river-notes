@@ -25,7 +25,7 @@
       "query": "path:Party",
       "color": {
         "a": 1,
-        "rgb": 713471
+        "rgb": 16714462
       }
     },
     {
@@ -43,10 +43,17 @@
       }
     },
     {
+      "query": "tag:finished",
+      "color": {
+        "a": 1,
+        "rgb": 4311095
+      }
+    },
+    {
       "query": "path:Quests",
       "color": {
         "a": 1,
-        "rgb": 3584564
+        "rgb": 16220415
       }
     },
     {
@@ -55,18 +62,25 @@
         "a": 1,
         "rgb": 12376909
       }
+    },
+    {
+      "query": "Party",
+      "color": {
+        "a": 1,
+        "rgb": 6212020
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.19739583333333,
-  "lineSizeMultiplier": 2.67760416666667,
+  "nodeSizeMultiplier": 1.5546875,
+  "lineSizeMultiplier": 2.34583333333333,
   "collapse-forces": false,
-  "centerStrength": 0.640625,
-  "repelStrength": 13.5416666666667,
-  "linkStrength": 1,
-  "linkDistance": 59,
-  "scale": 1.0000000000000082,
-  "close": true
+  "centerStrength": 0.447916666666667,
+  "repelStrength": 8.64583333333333,
+  "linkStrength": 0.723958333333333,
+  "linkDistance": 30,
+  "scale": 1.0000000000000095,
+  "close": false
 }

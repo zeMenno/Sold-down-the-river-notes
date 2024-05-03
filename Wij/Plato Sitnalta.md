@@ -12,9 +12,3 @@ Beste onderzoeker ooit worden
 Laat graag dingen voor hem doen.
 Is een klootzak
 
-
->[!cite]
->In de party met:
->- [[Farly Flynt-woot]]
->- [[Ivory Mistmoon]]
->- [[Dwinbar Heinrich Fryskyr]]

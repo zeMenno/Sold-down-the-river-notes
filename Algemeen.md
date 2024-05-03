@@ -18,9 +18,3 @@ Wereld heeft 2 manen
 - Kist gevonden met een vinger in ijs
 - Bedelende kinderen
 
-#### Pelican Perch
-- Doet me denken aan de goede oude tijd!
-- In de nacht werd er gezocht door [[Ivory Mistmoon]] en [[Plato Sitnalta]]. 
-	- Ik ben hier mijn Lute kwijt geraakt in een steeg.
-- Zit standaard een dame aan de bar 
-	- Niet in mij geintereseert

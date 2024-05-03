@@ -18,9 +18,3 @@ I don’t know my farther as most young dwarfs we just assume they spent there t
 
 our eyes swirl with iridescent colours"
 
-
->[!cite]
->In de party met:
->- [[Farly Flynt-woot]]
->- [[Ivory Mistmoon]]
->- [[Plato Sitnalta]]
