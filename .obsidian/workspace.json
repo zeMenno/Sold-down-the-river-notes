@@ -11,8 +11,12 @@
             "id": "ee7363681d3225b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plekken/Marienburg.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plekken/Marienburg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plekken/Marienburg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plekken/Marienburg.md"
+              }
             }
           }
         ]
@@ -140,7 +148,11 @@
   },
   "active": "ee7363681d3225b6",
   "lastOpenFiles": [
+    "Plekken/Marienburg.md",
+    "Plekken/Kruiersmuur.md",
     "Plekken/Tarnopols clock tower.md",
+    "Quests/Side/De Kapotte Lute.md",
+    "Goden",
     "Wij/Party.md",
     "Wij/Plato Sitnalta.md",
     "Wij/Ivory Mistmoon.md",
@@ -148,7 +160,6 @@
     "Wij/Dwinbar Heinrich Fryskyr.md",
     "Belangrijke personen/Olovald.md",
     "Plekken/Change.md",
-    "Plekken/Marienburg.md",
     "Quests/Side/De Eerste Gilde.md",
     "Plekken/Colleges/College van Baron Henrik.md",
     "Plekken/Tempels/Tempel van Mannaan.md",
@@ -169,14 +180,11 @@
     "Party/Untitled.canvas",
     "Quests/Main/De Koffer.md",
     "Misc",
-    "Belangrijke personen/Tante Bep.md",
-    "Gildes/Geheime gilde.md",
     "Wij",
     "Quests/Side",
     "Quests/Main",
     "Belangrijke personen/Untitled.canvas",
     "Belangrijke personen",
-    "Gildes",
-    "Quests"
+    "Gildes"
   ]
 }
