@@ -10,3 +10,10 @@ Vind mij een beetje vervelend
 
 Ging gewoon weg
 An eye for an eye (Doet iets voor iemand die ook iets voor hem doet)
+
+
+>[!cite]
+>In de party met:
+>- [[Farly Flynt-woot]]
+>- [[Dwinbar Heinrich Fryskyr]]
+>- [[Plato Sitnalta]]

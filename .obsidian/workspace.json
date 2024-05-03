@@ -11,12 +11,8 @@
             "id": "ee7363681d3225b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Dwinbar Heinrich Fryskyr.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Dwinbar Heinrich Fryskyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Dwinbar Heinrich Fryskyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Party/Dwinbar Heinrich Fryskyr.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,21 +138,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1da79a88399454ba",
+  "active": "ee7363681d3225b6",
   "lastOpenFiles": [
-    "Gildes/Geheime gilde.md",
+    "Gildes/Bounty hunters.md",
+    "Party/Farly Flynt-woot.md",
+    "Party/Ivory Mistmoon.md",
+    "Party/Plato Sitnalta.md",
+    "Party/Dwinbar Heinrich Fryskyr.md",
+    "Plekken/Toren.md",
+    "Plekken/Pelican Perch.md",
     "Belangrijke personen/Adelbert Handlanger.md",
+    "Plekken",
+    "Belangrijke personen/Anders Vesalion.md",
+    "Belangrijke personen/Dimitri.md",
+    "Belangrijke personen/Olovald.md",
+    "Belangrijke personen/Theophilus Graveland.md",
+    "Party/Untitled.canvas",
+    "Quests/Main/De Koffer.md",
+    "Belangrijke personen/Ludwig Proost.md",
+    "Misc",
+    "Belangrijke personen/Koster.md",
+    "Belangrijke personen/Tante Bep.md",
+    "Gildes/Geheime gilde.md",
     "Algemeen.md",
     "Party.md",
     "Quests/Main/De Graveyard.md",
     "Gildes/Kleine entertainers gilde.md",
-    "Belangrijke personen/Koster.md",
-    "Belangrijke personen/Dimitri.md",
-    "Belangrijke personen/Anders Vesalion.md",
-    "Party/Dwinbar Heinrich Fryskyr.md",
-    "Party/Farly Flynt-woot.md",
-    "Party/Ivory Mistmoon.md",
-    "Party/Plato.md",
     "Party",
     "Quests/Side",
     "Quests/Main",

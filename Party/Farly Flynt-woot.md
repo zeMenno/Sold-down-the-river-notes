@@ -28,3 +28,14 @@ Nummer over de bar fight na de opstanding
 ##### Medicine Man
 Nummer over medicijnen geven aan [Dwinbar](https://docs.google.com/document/d/1nHLPvoTofVOi9xkExhy-u3vSKMYT5k35rAklRgDl5LA/edit#heading=h.adajaqo43u6r)
 [https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601](https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601)
+
+
+>[!cite]
+>In de party met:
+>- [[Dwinbar Heinrich Fryskyr]]
+>- [[Ivory Mistmoon]]
+>- [[Plato Sitnalta]]
+
+
+
+
