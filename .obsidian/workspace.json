@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee6aa155fd4461c4",
+        "id": "9d68109a17319088",
         "type": "tabs",
         "children": [
           {
-            "id": "243f2da384e45f92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "befe2314fd52bb12",
+            "id": "ee7363681d3225b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0a5b99b0756730c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Belangrijke personen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99b2a453bbac65f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spelers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ae621dbda05e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algemeen.md",
+                "file": "Party/Dwinbar Heinrich Fryskyr.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#failed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algemeen.md",
+                "file": "Party/Dwinbar Heinrich Fryskyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algemeen.md",
+                "file": "Party/Dwinbar Heinrich Fryskyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -170,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algemeen.md"
+                "file": "Party/Dwinbar Heinrich Fryskyr.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc07d095f428fbd",
+  "active": "1da79a88399454ba",
   "lastOpenFiles": [
-    "Belangrijke personen.md",
+    "Gildes/Geheime gilde.md",
+    "Belangrijke personen/Adelbert Handlanger.md",
     "Algemeen.md",
-    "Spelers.md",
+    "Party.md",
+    "Quests/Main/De Graveyard.md",
+    "Gildes/Kleine entertainers gilde.md",
+    "Belangrijke personen/Koster.md",
+    "Belangrijke personen/Dimitri.md",
+    "Belangrijke personen/Anders Vesalion.md",
+    "Party/Dwinbar Heinrich Fryskyr.md",
+    "Party/Farly Flynt-woot.md",
+    "Party/Ivory Mistmoon.md",
+    "Party/Plato.md",
+    "Party",
+    "Quests/Side",
+    "Quests/Main",
+    "2024-05-03.md",
+    "Belangrijke personen/Untitled.canvas",
+    "Belangrijke personen",
+    "Gildes",
+    "Quests/Main.md",
+    "Quests/Side.md",
+    "Ivory.md",
+    "Quests",
     "Quests.md",
     "Quests"
   ]

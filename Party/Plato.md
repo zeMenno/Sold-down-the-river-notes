@@ -1,9 +1,10 @@
+#party
+>[!info]
+>**Speler**: Shane
+>**Class**: Paladin
+>**Race**: Sea elf
 
-
-
-### Plato - Shane - Paladin
 Grootse Sitnalta family :
-- Zee elven
 - Gebieden ontdekken
 - Historie    
 - grootse handel
