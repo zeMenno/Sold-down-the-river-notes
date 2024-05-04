@@ -11,6 +11,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[De Kapotte Lute]]
+- [ ] [[Het Papiertje]]
 
 
 ## Done
@@ -18,11 +19,18 @@ kanban-plugin: basic
 **Complete**
 
 
+## Failed
+
+**Complete**
+- [x] [[De Graveyard]]
+
+
 ***
 
 ## Archive
 
 - [x] [[De stad opvernemen]]
+- [x] [[De Graveyard]]
 
 %% kanban:settings
 ```

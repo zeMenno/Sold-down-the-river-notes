@@ -4,30 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "43c52aae998d8ef2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e103a824d6a6877a",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Quests/Quest status.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7a1113464588c458",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a7c3631acf500c",
+            "id": "3321bede8dd9a2be",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Quest status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Quest status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quests/Quest status.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,13 +128,23 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "e103a824d6a6877a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Quests/Quests.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 551.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,15 +153,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e103a824d6a6877a",
+  "active": "3321bede8dd9a2be",
   "lastOpenFiles": [
-    "De stad opvernemen.md",
-    "Quests/Quest status.md",
-    "Quests/Main/De Graveyard.md",
+    "Quests/Main/Het Papiertje.md",
+    "Quests/Side/De Eerste Gilde.md",
+    "Plekken/Marienburg.md",
+    "Plekken/Kruiersmuur.md",
+    "Plekken/Pelican Perch.md",
+    "Quests/Quests.md",
+    "City_map.jpg",
+    "Plekken/Tarnopols clock tower.md",
     "Quests/Main/De Koffer.md",
+    "Quests/Main/De Graveyard.md",
+    "De stad opvernemen.md",
     "Quests/Side/De Kapotte Lute.md",
     "Wij/Farly Flynt-woot.md",
     "Wij/Ivory Mistmoon.md",
@@ -186,16 +184,10 @@
     "Wij/Dwinbar Heinrich Fryskyr.md",
     "Belangrijke personen/Tante Bep.md",
     "Untitled.canvas",
-    "Plekken/Marienburg.md",
-    "Plekken/Kruiersmuur.md",
-    "Plekken/Tarnopols clock tower.md",
     "Goden",
     "Wij/Party.md",
     "Belangrijke personen/Olovald.md",
     "Plekken/Change.md",
-    "Quests/Side/De Eerste Gilde.md",
-    "Plekken/Colleges/College van Baron Henrik.md",
-    "Plekken/Tempels/Tempel van Mannaan.md",
     "Plekken/Tempels",
     "Plekken/Colleges",
     "Plekken",

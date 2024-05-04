@@ -1,6 +1,6 @@
 #on-hold 
 
-We zijn erop geattendeerd dat er een koffer was kwijtgeraakt van[[Ludwig Proost]]. Die gaan wij zoeken.
+We zijn erop geattendeerd dat er een koffer was kwijtgeraakt van [[Ludwig Proost]]. Die gaan wij zoeken.
 
 Ivory had ineens een koffer. Die gaan we aan de mysterieuze man geven. En hopen dat dit plan werkt.
 
