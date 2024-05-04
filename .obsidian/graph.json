@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:failed",
+      "query": "tag:#failed  ",
       "color": {
         "a": 1,
         "rgb": 14112342
@@ -81,6 +81,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 0.953125,
   "linkDistance": 30,
-  "scale": 0.4505081176757825,
+  "scale": 0.6316046762907501,
   "close": false
 }

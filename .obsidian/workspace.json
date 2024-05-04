@@ -4,14 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9d68109a17319088",
+        "id": "43c52aae998d8ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7363681d3225b6",
+            "id": "e103a824d6a6877a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "kanban",
+              "state": {
+                "file": "Quests/Quest status.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a1113464588c458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a7c3631acf500c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Quest status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Quest status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +136,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Quests/Quest status.md"
+              }
+            }
+          },
+          {
+            "id": "597443f59e51501b",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,18 +166,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee7363681d3225b6",
+  "active": "e103a824d6a6877a",
   "lastOpenFiles": [
+    "De stad opvernemen.md",
+    "Quests/Quest status.md",
+    "Quests/Main/De Graveyard.md",
+    "Quests/Main/De Koffer.md",
+    "Quests/Side/De Kapotte Lute.md",
+    "Wij/Farly Flynt-woot.md",
+    "Wij/Ivory Mistmoon.md",
+    "Wij/Plato Sitnalta.md",
+    "Bronze klok.md",
+    "Quests/Kanban Quests.md",
+    "2024-05-04.md",
+    "Untitled.md",
+    "Gildes/Bounty hunters.md",
+    "Gildes/Kleine entertainers gilde.md",
+    "Gildes/Geheime gilde.md",
+    "Wij/Dwinbar Heinrich Fryskyr.md",
+    "Belangrijke personen/Tante Bep.md",
+    "Untitled.canvas",
     "Plekken/Marienburg.md",
     "Plekken/Kruiersmuur.md",
     "Plekken/Tarnopols clock tower.md",
-    "Quests/Side/De Kapotte Lute.md",
     "Goden",
     "Wij/Party.md",
-    "Wij/Plato Sitnalta.md",
-    "Wij/Ivory Mistmoon.md",
-    "Wij/Farly Flynt-woot.md",
-    "Wij/Dwinbar Heinrich Fryskyr.md",
     "Belangrijke personen/Olovald.md",
     "Plekken/Change.md",
     "Quests/Side/De Eerste Gilde.md",
@@ -157,20 +198,8 @@
     "Plekken/Tempels/Tempel van Mannaan.md",
     "Plekken/Tempels",
     "Plekken/Colleges",
-    "Belangrijke personen/Theophilus Graveland.md",
-    "Plekken/Pelican Perch.md",
-    "Quests/Main/De Graveyard.md",
-    "Belangrijke personen/Anders Vesalion.md",
-    "Belangrijke personen/Paul Koster.md",
-    "Algemeen.md",
-    "Belangrijke personen/Ludwig Proost.md",
-    "Belangrijke personen/Jerry van Dieteren.md",
-    "Gildes/Bounty hunters.md",
-    "Belangrijke personen/Adelbert Handlanger.md",
     "Plekken",
-    "Belangrijke personen/Dimitri.md",
     "Party/Untitled.canvas",
-    "Quests/Main/De Koffer.md",
     "Misc",
     "Wij",
     "Quests/Side",
