@@ -11,8 +11,10 @@
             "id": "3321bede8dd9a2be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Quests/Quests.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Quests.md"
+              }
             }
           },
           {
@@ -144,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.5
+    "width": 844.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,45 +165,45 @@
   },
   "active": "3321bede8dd9a2be",
   "lastOpenFiles": [
-    "Quests/Main/Het Papiertje.md",
-    "Quests/Side/De Eerste Gilde.md",
-    "Plekken/Marienburg.md",
-    "Plekken/Kruiersmuur.md",
-    "Plekken/Pelican Perch.md",
+    "Quests/Dashboard.md",
     "Quests/Quests.md",
-    "City_map.jpg",
-    "Plekken/Tarnopols clock tower.md",
-    "Quests/Main/De Koffer.md",
-    "Quests/Main/De Graveyard.md",
-    "De stad opvernemen.md",
-    "Quests/Side/De Kapotte Lute.md",
-    "Wij/Farly Flynt-woot.md",
-    "Wij/Ivory Mistmoon.md",
-    "Wij/Plato Sitnalta.md",
-    "Bronze klok.md",
-    "Quests/Kanban Quests.md",
-    "2024-05-04.md",
-    "Untitled.md",
+    "Marienburg/Gebieden/Hoge Toren.md",
+    "Marienburg/Marienburg.md",
     "Gildes/Bounty hunters.md",
-    "Gildes/Kleine entertainers gilde.md",
     "Gildes/Geheime gilde.md",
+    "Belangrijke personen/Belangrijke personen.md",
+    "Belangrijke personen/Dimitri.md",
+    "Belangrijke personen/Anders Vesalion.md",
+    "Belangrijke personen/Adelbert Handlanger.md",
+    "City_map.jpg",
+    "Algemeen.md",
+    "Marienburg/Tempels/Tempel van Shalya.md",
+    "Marienburg/Gebieden/Kruiersmuur.md",
+    "Wij/Wij.md",
+    "Marienburg/Tempels/Tempel van Mymidia.md",
+    "Marienburg/Gebieden/Tempelwijk.md",
+    "Marienburg/Tempels/Tempel van Haendryk.md",
+    "Marienburg/Colleges/College van Baron Henryk.md",
+    "Marienburg/Tempels/Tempel van Mannaan.md",
+    "Marienburg/Points of interest/De grote bibliotheek.md",
+    "Marienburg/Bruggen/Draaien brug.md",
+    "Quests/Side/Ons Pand.md",
+    "Quests/Side/De Eerste Gilde.md",
+    "Belangrijke personen/Paul Koster.md",
     "Wij/Dwinbar Heinrich Fryskyr.md",
     "Belangrijke personen/Tante Bep.md",
+    "Marienburg/Points of interest",
+    "Marienburg/Bruggen",
+    "Marienburg/Gebieden",
+    "Quests/Rumor",
     "Untitled.canvas",
     "Goden",
-    "Wij/Party.md",
-    "Belangrijke personen/Olovald.md",
-    "Plekken/Change.md",
-    "Plekken/Tempels",
-    "Plekken/Colleges",
-    "Plekken",
+    "Marienburg/Tempels",
+    "Marienburg/Colleges",
+    "Marienburg",
     "Party/Untitled.canvas",
     "Misc",
     "Wij",
-    "Quests/Side",
-    "Quests/Main",
-    "Belangrijke personen/Untitled.canvas",
-    "Belangrijke personen",
-    "Gildes"
+    "Belangrijke personen/Untitled.canvas"
   ]
 }

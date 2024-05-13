@@ -1,5 +1,7 @@
 [
   "obsidian-kanban",
   "obsidian-git",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-charts",
+  "folder-note-plugin"
 ]

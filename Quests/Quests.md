@@ -11,12 +11,16 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[De Kapotte Lute]]
+- [ ] [[De Koffer]]
 - [ ] [[Het Papiertje]]
+- [ ] [[Ons Pand]]
 
 
 ## Done
 
 **Complete**
+- [x] [[De Eerste Gilde]]
+- [x] [[Naar Marienburg]]
 
 
 ## Failed
