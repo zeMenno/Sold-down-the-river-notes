@@ -34,3 +34,12 @@ Nummer over de bar fight na de opstanding
 ##### Medicine Man
 Nummer over medicijnen geven aan **Dwinbar**
 [https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601](https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601)
+
+##### Fading Shadows
+Nummer over toren met een geest
+[https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601](https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601)
+
+##### Broken Reflections
+Nummer over de exploderende boten en groene maan 
+[https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601](https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601)
+

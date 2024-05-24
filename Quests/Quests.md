@@ -6,19 +6,22 @@ kanban-plugin: basic
 
 ## To-Do
 
+- [ ] [[The Graveyard pt. 2]]
+- [ ] [[Operatie  Boot kopen]]
 
 
 ## In Progress
 
-- [ ] [[De Kapotte Lute]]
 - [ ] [[De Koffer]]
 - [ ] [[Het Papiertje]]
 - [ ] [[Ons Pand]]
+- [ ] [[De Toren]]
 
 
 ## Done
 
 **Complete**
+- [x] [[De Kapotte Lute]]
 - [x] [[De Eerste Gilde]]
 - [x] [[Naar Marienburg]]
 

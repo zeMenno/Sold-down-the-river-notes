@@ -1,0 +1,1 @@
+Persoon van de boot waar de aandelen aan gekoppeld zijn.

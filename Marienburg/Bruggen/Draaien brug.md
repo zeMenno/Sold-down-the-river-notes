@@ -1,0 +1,1 @@
+Hier heb ik een stuk land gekocht in de missie [[Ons Pand]]

@@ -19,3 +19,9 @@ darkMode: false
 - Mag niet werken, daar zijn gildes voor. (Mag dus wel als je in een gilde zit)
 - Kist gevonden met een vinger in ijs
 - Bedelende kinderen
+
+
+# Manen
+Groene Maan (Morsleib): 
+>Als deze er is dan zijn alle chaotische krachten intens gegroeid
+ 
