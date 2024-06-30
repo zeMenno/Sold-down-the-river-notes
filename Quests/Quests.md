@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] [[De reis naar Tante Bep|De reis naar Tante Bep]]
 - [ ] [[De Koffer]]
 - [ ] [[Het Papiertje]]
 - [ ] [[Ons Pand]]
@@ -21,15 +22,11 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
-- [x] [[De Kapotte Lute]]
-- [x] [[De Eerste Gilde]]
-- [x] [[Naar Marienburg]]
 
 
 ## Failed
 
 **Complete**
-- [x] [[De Graveyard]]
 
 
 ***
@@ -38,9 +35,13 @@ kanban-plugin: basic
 
 - [x] [[De stad opvernemen]]
 - [x] [[De Graveyard]]
+- [x] [[De Kapotte Lute]]
+- [x] [[De Eerste Gilde]]
+- [x] [[Naar Marienburg]]
+- [x] [[De Graveyard]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","new-note-folder":"Quests/Main","hide-card-count":false}
 ```
 %%

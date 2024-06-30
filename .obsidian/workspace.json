@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58ea016c0df8cb71",
+        "id": "b9522bbbd985b228",
         "type": "tabs",
         "children": [
           {
-            "id": "8157e288681a3a74",
+            "id": "c0a71def7dabe8db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belangrijke personen/Olovald.md",
+                "file": "Belangrijke personen/Tante Bep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belangrijke personen/Olovald.md",
+                "file": "Belangrijke personen/Tante Bep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Belangrijke personen/Olovald.md",
+                "file": "Belangrijke personen/Tante Bep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Belangrijke personen/Olovald.md"
+                "file": "Belangrijke personen/Tante Bep.md"
               }
             }
           },
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 732.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,14 +174,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8157e288681a3a74",
+  "active": "c0a71def7dabe8db",
   "lastOpenFiles": [
+    "Belangrijke personen/Belangrijke personen.md",
+    "Quests/Main/De reis naar Tante Bep.md",
+    "Quests/Quests.md",
+    "Belangrijke personen/Tante Bep.md",
+    "Wij/Wij.md",
+    "Marienburg/Marienburg.md",
+    "Buiten Marienburg/Untitled.md",
     "Wij/Farly Flynt-woot.md",
+    "Buiten Marienburg",
+    "Marienburg/Gebieden/Hoge Toren.md",
+    "Belangrijke personen/Olovald.md",
     "Belangrijke personen/Ludwig Proost.md",
     "Belangrijke personen/Thomas Borsboom.md",
     "Marienburg/Bruggen/Draaien brug.md",
-    "Marienburg/Marienburg.md",
-    "Quests/Quests.md",
     "Quests/Side/Operatie  Boot kopen.md",
     "Quests/Rumor/De Toren.md",
     "Quests/Side/Ons Pand.md",
@@ -192,17 +201,10 @@
     "Quests/Main/Naar Marienburg.md",
     "Quests/Main/Het Papiertje.md",
     "Marienburg/Gebieden/Elfs gemeente.md",
-    "Belangrijke personen/Olovald.md",
     "Belangrijke personen/Theophilus Graveland.md",
     "Marienburg/Points of interest/Change.md",
     "Marienburg/Points of interest/De grote bibliotheek.md",
     "Marienburg/Tempels/Tempel van Haendryk.md",
-    "Marienburg/Gebieden/Tempelwijk.md",
-    "Marienburg/Tempels/Tempel van Mannaan.md",
-    "Wij/Wij.md",
-    "Quests/Side/De Kapotte Lute.md",
-    "Quests/Side/De Eerste Gilde.md",
-    "Marienburg/Points of interest/Tarnopols clock tower.md",
     "City_map.jpg",
     "Marienburg/Points of interest",
     "Marienburg/Bruggen",
@@ -214,7 +216,6 @@
     "Marienburg",
     "Party/Untitled.canvas",
     "Misc",
-    "Wij",
     "Belangrijke personen/Untitled.canvas"
   ]
 }
