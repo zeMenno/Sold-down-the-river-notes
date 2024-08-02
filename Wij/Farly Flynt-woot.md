@@ -43,3 +43,6 @@ Nummer over toren met een geest
 Nummer over de exploderende boten en groene maan 
 [https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601](https://suno.com/song/5e2dcd64-106c-4f63-ae83-bf6d93cfb601)
 
+#### The Voyage Of Vengeance
+Nummer over 3 mensen die op avontuur gaan op een boot
+https://suno.com/song/359f6364-e982-4d84-98a8-0cd668322797

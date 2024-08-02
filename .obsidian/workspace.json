@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belangrijke personen/Tante Bep.md",
+                "file": "Marienburg/Marienburg.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "999e9e7722b4f665",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belangrijke personen/Tante Bep.md",
+                "file": "Marienburg/Marienburg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Belangrijke personen/Tante Bep.md",
+                "file": "Marienburg/Marienburg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Belangrijke personen/Tante Bep.md"
+                "file": "Marienburg/Marienburg.md"
               }
             }
           },
@@ -177,34 +177,35 @@
   "active": "c0a71def7dabe8db",
   "lastOpenFiles": [
     "Belangrijke personen/Belangrijke personen.md",
-    "Quests/Main/De reis naar Tante Bep.md",
-    "Quests/Quests.md",
-    "Belangrijke personen/Tante Bep.md",
-    "Wij/Wij.md",
+    "Belangrijke personen/Jochem.md",
+    "Marienburg/Gebieden/Zuid have.md",
+    "Belangrijke personen/Elaine.md",
+    "Marienburg/Tempels/Tempel van Mymidia.md",
+    "Quests/Main/De Koffer.md",
+    "Quests/Side/Operatie boot kopen.md",
+    "Belangrijke personen/Urdithriel Imraholen.md",
     "Marienburg/Marienburg.md",
-    "Buiten Marienburg/Untitled.md",
+    "Marienburg/Gebieden/Handelaarmarkt.md",
     "Wij/Farly Flynt-woot.md",
-    "Buiten Marienburg",
-    "Marienburg/Gebieden/Hoge Toren.md",
-    "Belangrijke personen/Olovald.md",
-    "Belangrijke personen/Ludwig Proost.md",
-    "Belangrijke personen/Thomas Borsboom.md",
-    "Marienburg/Bruggen/Draaien brug.md",
-    "Quests/Side/Operatie  Boot kopen.md",
-    "Quests/Rumor/De Toren.md",
-    "Quests/Side/Ons Pand.md",
-    "Untitled 1.canvas",
-    "2024-05-24.md",
-    "Marienburg/Points of interest/Pelican Perch.md",
-    "Untitled.canvas",
-    "Belangrijke personen/Anders Vesalion.md",
-    "Quests/Main/Naar Marienburg.md",
-    "Quests/Main/Het Papiertje.md",
+    "Belangrijke personen/Untitled",
+    "Gildes/Kleine entertainers gilde.md",
     "Marienburg/Gebieden/Elfs gemeente.md",
-    "Belangrijke personen/Theophilus Graveland.md",
-    "Marienburg/Points of interest/Change.md",
-    "Marienburg/Points of interest/De grote bibliotheek.md",
+    "Marienburg/Gebieden/Kruiersmuur.md",
+    "Marienburg/Gebieden/Hoge Toren.md",
+    "Marienburg/Gebieden/Guilderveld.md",
+    "Belangrijke personen/De Haan Broeders.md",
+    "Quests/Quests.md",
+    "Quests/Rumor/De Toren.md",
+    "Quests/Main/Het Papiertje.md",
+    "Belangrijke personen/Anders Vesalion.md",
+    "Belangrijke personen/Paul Koster.md",
+    "Belangrijke personen/Jessy.md",
+    "Quests/Main/De reis naar Tante Bep.md",
+    "Belangrijke personen/Dimitri.md",
     "Marienburg/Tempels/Tempel van Haendryk.md",
+    "Buiten Marienburg",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "City_map.jpg",
     "Marienburg/Points of interest",
     "Marienburg/Bruggen",
@@ -215,7 +216,6 @@
     "Marienburg/Colleges",
     "Marienburg",
     "Party/Untitled.canvas",
-    "Misc",
     "Belangrijke personen/Untitled.canvas"
   ]
 }

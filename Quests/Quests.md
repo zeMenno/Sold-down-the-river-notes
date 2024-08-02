@@ -7,14 +7,12 @@ kanban-plugin: basic
 ## To-Do
 
 - [ ] [[The Graveyard pt. 2]]
-- [ ] [[Operatie  Boot kopen]]
+- [ ] [[Operatie boot kopen]]
 
 
 ## In Progress
 
-- [ ] [[De reis naar Tante Bep|De reis naar Tante Bep]]
 - [ ] [[De Koffer]]
-- [ ] [[Het Papiertje]]
 - [ ] [[Ons Pand]]
 - [ ] [[De Toren]]
 
@@ -22,6 +20,8 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] [[De reis naar Tante Bep|De reis naar Tante Bep]]
+- [x] [[Het Papiertje]]
 
 
 ## Failed

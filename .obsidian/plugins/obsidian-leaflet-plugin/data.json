@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "City-Map",
-      "lastAccessed": 1716582169598,
+      "lastAccessed": 1722629797144,
       "markers": [
         {
           "id": "ID_487908da3958",
@@ -146,6 +146,40 @@
             1.24609375
           ],
           "link": "Elfs gemeente",
+          "layer": "%5B%5BCity_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b69294a0a28",
+          "type": "Gebied",
+          "loc": [
+            -0.724853515625,
+            1.505859375
+          ],
+          "link": "Guilderveld",
+          "layer": "%5B%5BCity_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6be98a8af8e8",
+          "type": "Gebied",
+          "loc": [
+            -0.599853515625,
+            2.150390625
+          ],
+          "link": "Handelaarmarkt",
           "layer": "%5B%5BCity_map.jpg%5D%5D",
           "mutable": true,
           "command": false,
