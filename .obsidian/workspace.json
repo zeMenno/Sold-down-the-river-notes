@@ -11,12 +11,8 @@
             "id": "c0a71def7dabe8db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marienburg/Marienburg.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marienburg/Marienburg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marienburg/Marienburg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Marienburg/Marienburg.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,6 +168,7 @@
   },
   "active": "c0a71def7dabe8db",
   "lastOpenFiles": [
+    "Marienburg/Marienburg.md",
     "Belangrijke personen/Belangrijke personen.md",
     "Belangrijke personen/Jochem.md",
     "Marienburg/Gebieden/Zuid have.md",
@@ -184,7 +177,6 @@
     "Quests/Main/De Koffer.md",
     "Quests/Side/Operatie boot kopen.md",
     "Belangrijke personen/Urdithriel Imraholen.md",
-    "Marienburg/Marienburg.md",
     "Marienburg/Gebieden/Handelaarmarkt.md",
     "Wij/Farly Flynt-woot.md",
     "Belangrijke personen/Untitled",
